@@ -16,7 +16,7 @@ O objetivo principal deste projeto é o aprendizado de novas tecnologias, práti
 *   [Tecnologia 3, MySQL]
 
 ## 📌 Status do Projeto
-*   **Em desenvolvimento**
+*   **Desenvolvimento em breve**
 
 ---
 *Este é um projeto pessoal e não possui fins comerciais.*
